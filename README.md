@@ -1,1 +1,1 @@
-# blog_comment
+* Move to Discussions :top:
